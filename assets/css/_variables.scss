@@ -14,16 +14,16 @@ $global-background-color: #fff !default;
 $global-background-color-dark: #292a2d !default;
 
 // Color of the text
-$global-font-color: #161209 !default;
-$global-font-color-dark: #a9a9b3 !default;
+$global-font-color: rgba(0, 0, 0, 0.88) !default;
+$global-font-color-dark: rgba(255, 255, 255, 0.84) !default;
 
 // Color of the secondary text
-$global-font-secondary-color: #a9a9b3 !default;
-$global-font-secondary-color-dark: #5d5d5f !default;
+$global-font-secondary-color: rgba(0, 0, 0, 0.56) !default;
+$global-font-secondary-color-dark: rgba(255, 255, 255, 0.56) !default;
 
 // Color of the link
-$global-link-color: #161209 !default;
-$global-link-color-dark: #a9a9b3 !default;
+$global-link-color: rgba(0, 0, 0, 0.88) !default;
+$global-link-color-dark: rgba(255, 255, 255, 0.84) !default;
 
 // Color of the hover link
 $global-link-hover-color: #2d96bd !default;
@@ -39,7 +39,7 @@ $global-border-color-dark: #363636 !default;
 $scrollbar-color: #87878d !default;
 
 // Color of the hover scrollbar
-$scrollbar-hover-color: #a9a9b3 !default;
+$scrollbar-hover-color: rgba(255, 255, 255, 0.84) !default;
 // ========== Scrollbar ========== //
 
 // ========== Selection ========== //
